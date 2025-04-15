@@ -13,8 +13,10 @@ Proyek ini bertujuan untuk melakukan **Exploratory Data Analysis (EDA)** terhada
    git clone https://github.com/mutimrd2n/EDA-Diabetes.git
    cd EDA-Diabetes
    
-2. Install dependencies
+2. Install dependencies :
+   ```bash
    pip install -r requirements.txt
 
-4. Menjalankan Program
+3. Menjalankan Program
+   ```bash
    python Diabetes.py
