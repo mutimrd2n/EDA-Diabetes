@@ -3,7 +3,7 @@
 Proyek ini bertujuan untuk melakukan **Exploratory Data Analysis (EDA)** terhadap dataset diabetes. Analisis ini mencakup:
 
 - Menjelaskan hubungan antara parameter medis (seperti glukosa, BMI, dan usia) dengan risiko diabetes.
-- Mengidentifikasi prediktor dominan untuk membangun model klasifikasi.
+- Mengidentifikasi prediktor dominan untuk membagun model klasifikasi.
 - Menyiapkan data untuk tahap pemodelan dengan teknik machine learning.
 
 ## Dataset
