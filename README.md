@@ -6,6 +6,8 @@ Proyek ini bertujuan untuk melakukan **Exploratory Data Analysis (EDA)** terhada
 - Mengidentifikasi prediktor dominan untuk membangun model klasifikasi.
 - Menyiapkan data untuk tahap pemodelan dengan teknik machine learning.
 
+## Dataset
+
 Dataset yang digunakan berasal dari Kaggle:  
 [Diabetes Dataset - Kaggle](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database )
 
